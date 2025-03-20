@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/avvesome-chateletflw?theme=transparent&font=Rasa&ext=heatmap&site=cn)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Xyrcil&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+
