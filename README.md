@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/avvesome-chateletflw?theme=transparent&font=Rasa&ext=heatmap&site=cn)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Xyrcil&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyrcil)](https://github.com/anuraghazra/github-readme-stats)
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyrcil&count_private=true"></img>
