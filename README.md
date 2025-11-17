@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Xyrcil&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyrcil&count_private=true"></img>
