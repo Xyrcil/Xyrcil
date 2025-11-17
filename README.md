@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/avvesome-chateletflw?theme=transparent&font=Rasa&ext=heatmap&site=cn)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Xyrcil&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyrcil)](https://github.com/anuraghazra/github-readme-stats)
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyrcil&count_private=true"></img>
